@@ -4,7 +4,7 @@ import csv
 file_to_load = "resources\election_results.csv"
 
 #Assign a variable for the file to save and the path.
-file_to_save = "analysis\election_analysis.txt"
+file_to_save = "analysis\election_results.txt"
 
 #1. Initialize a total vote counter
 total_votes = 0
