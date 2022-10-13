@@ -1,7 +1,6 @@
 # Election_Analysis
 
 ## Overview of Election Audit
-<<<<<<< HEAD
 We helped Seth and Tom to get the election audit results by using the Python script. The main purpose of this analysis is to find out the winner of the election. Further, we also need some other information about results such as the winner candidate, each candidate's vote percentage, and results of each county's total votes cast. Finally, we want a faster and printed text file to send to the election commission.
 
 ## Results
